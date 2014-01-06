@@ -15,3 +15,5 @@ end
 
 array_concat([1,2,3], [4,5,6])   # => [1,2,3,4,5,6]
 array_concat([10, 4], ["apple"]) # => [10, 4, "apple"]
+
+Implement_the_factorial_function
