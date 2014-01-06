@@ -17,5 +17,5 @@ my_info = {
 :first_name => "Oliver",
 :last_name => "Treadwell", 
 :hometown => "San Diego, CA", 
-:age => "24"
+:age => 24
 }
